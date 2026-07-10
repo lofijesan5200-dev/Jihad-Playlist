@@ -162,5 +162,8 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg" group-title="Documentary",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
 
 
